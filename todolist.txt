@@ -1,7 +1,4 @@
-CodePractice
-============
-
-Implementation of commonly used Data Structures and Algorithms
+General List 
 
 http://programmers.stackexchange.com/questions/155639/which-algorithms-data-structures-should-i-recognize-and-know-by-name
 
@@ -10,17 +7,19 @@ Data Structures:
 Linked List
 Hash Tables (maps or dictionaries)
 Arrays
-Trees
+Trees 
 Stack
-Queue
+Queue 
 Graph
 
+
 Algorithms:
+
 Sorting:
 Insertion Sort
 Merge Sort
 Quick Sort
-Radix Sort (bucket and counting)
+Radix Sort (bucket and counting) 
 Heap Sort
 Bogo and Quantum sort?
 
